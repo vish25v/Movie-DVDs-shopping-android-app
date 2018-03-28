@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HomeStore</string>
+    <string name="dinnerware">Dinnerware</string>
+    <string name="filter_sort">FILTER/SORT</string>
+    <string name="add_to_cart">ADD TO CART</string>
+</resources>
